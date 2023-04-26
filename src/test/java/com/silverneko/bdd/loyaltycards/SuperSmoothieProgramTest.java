@@ -6,7 +6,6 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-  features = "classpath:features/loyalty_cards"
-)
+  features = "classpath:features/loyaltycards")
 public class SuperSmoothieProgramTest {
 }
